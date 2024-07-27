@@ -29,12 +29,12 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "mongodb+srv://VEENATUNE7654:<VEENATUNE7654>@cluster0.i7r8ucr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "value": "mongodb+srv://vivek:1234567890@cluster0.c48d8ih.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id of user whom you would like to add as OWNER.",
-        "value": "6407861676",
+        "value": "7304558394",
         "required": true
       },
       "STRING_SESSION": {
@@ -44,7 +44,7 @@
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "HRKU-55f03c75-f552-4ece-b7c0-0d6d54f4ed21",
         "required": false
       },
       "HEROKU_APP_NAME": {
@@ -54,7 +54,7 @@
       },
       "LOGGER_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "-1002066887457",
+        "value": "-1002014882444",
         "required": true
       }
     },
