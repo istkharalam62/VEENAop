@@ -26,7 +26,7 @@ instaloader
 lexica-api
 motor 
 MukeshAPI
-numpy<2.0.0
+numpy<3.0.0
 openai==0.28.0
 opencv-python
 pillow==9.5.0
