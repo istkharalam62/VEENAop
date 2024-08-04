@@ -1,7 +1,7 @@
 from pyrogram import  filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
-from VEENAMUSIC.utils.VEENAMUSIC_font import Fonts
+from VEENAMUSIC.utils.baby_font import Fonts
 from VEENAMUSIC import app
 
 @app.on_message(filters.command(["font", "fonts"]))
