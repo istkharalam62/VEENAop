@@ -2,7 +2,7 @@ import asyncio
 from pyrogram.enums import ChatType, ChatMemberStatus
 from VEENAMUSIC import app
 from pyrogram import filters
-from VEENAMUSIC.utils.veena_ban import admin_filter
+from VEENAMUSIC.utils.baby_ban import admin_filter
 
 
 
